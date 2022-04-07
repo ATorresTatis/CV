@@ -7,7 +7,4 @@ En los últimos años mi dedicación se ha concentrado en la gestión de equipos
 
 Mis mayores fortalezas son un alto nivel de compromiso y de responsabilidad, buenas relaciones interpersonales, alta capacidad de integración y adaptabilidad, liderazgo, capacidad de trabajo en equipo, capacidad de análisis y de síntesis, motivación hacia el logro de resultados, adecuada planeación y manejo del tiempo, así como la optimización y el mejoramiento continuo de los procesos.
 
-## Datos personales
-
-Nombre: Alvaro Torres Tatis
-Fecha de nacimiento: 6 de marzo de 1.969, Cartagena, Bolívar
+#[CV@](https://www.linkedin.com/in/ATorresTatis)
